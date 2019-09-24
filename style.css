@@ -1,10 +1,18 @@
+body {
+    display: flex;
+    justify-content: center;
+    background: #7E8D85;
+    font-family: 'Roboto Slab', serif;
+    line-height: 1.4;
+}
+
 .container {
-    width: 400px;
-    margin: 50px auto;
-    background: rgb(212, 181, 181);
-    padding: 10px;
-    font-family: Arial, Helvetica, sans-serif, sans-serif;
-    border-radius: 3px;
+    margin-top: 20px;
+    width: 300px;
+    padding: 10px 40px 40px;
+    background: #2F242C;
+    border-radius: 5px;
+    color: #B3BFB8;
 }
 
 h1 {
