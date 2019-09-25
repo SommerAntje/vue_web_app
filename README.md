@@ -1,6 +1,7 @@
 ### CoinDesk Bitcoin Price Index API
 
 ![CoinDesk Bitcoin Price Index API](screenshot.png)
+![Error message](error_handling.png)
 
 
 ### Vue example using axios to consume APIS
