@@ -1,6 +1,17 @@
 ### CoinDesk Bitcoin Price Index API
 
 ![CoinDesk Bitcoin Price Index API](screenshot.png)
+
+### error handling example 
+
+```
+Exemplaric error handling - in case the axios call might not work because:
+
+ - The API is down.
+ - The request was made incorrectly.
+ - The API isn’t giving us the information in the format that we anticipated.
+
+```
 ![Error message](error_handling.png)
 
 
