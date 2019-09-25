@@ -1,8 +1,8 @@
 ### CoinDesk Bitcoin Price Index API
 
 ```
-![ScreenShot](images/bitcoin_price_index.png)
-![ScreenShot](images/error_handling.png)
+![ScreenShot](bitcoin_price_index.png)
+![ScreenShot](error_handling.png)
  
 ```
 
